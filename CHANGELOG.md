@@ -1,3 +1,12 @@
+# 1.0.2
+
+Changed colors for:
+
+-   editorInfo
+-   editorWarning
+-   editorError
+-   editorHint
+
 # 1.0.1
 
 Changed colors for:
