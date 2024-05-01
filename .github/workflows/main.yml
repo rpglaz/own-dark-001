@@ -1,0 +1,20 @@
+on:
+  push:
+    tags:
+      - "*.*.*"
+name: Build and Release
+jobs:
+  build-extension:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build extension
+        run: npx @vscode/vsce pack --out ./builds
+      - name: Release
+        uses:  softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: builds/own-dark-001-*.vsix
+      - name: Clean up
+        run: rm -f./builds/own-dark-001-*.vsix
