@@ -1,13 +1,34 @@
+# 1.1.0
+
+Update colors:
+
+-   editor.background
+-   editorGroup.dropIntoPromptBackground
+-   editorGroupHeader.noTabsBackground
+-   editorGroupHeader.tabsBackground
+-   editorGutter.background
+-   editorHoverWidget.background
+-   editorHoverWidget.foreground
+-   editorHoverWidget.statusBarBackground
+-   editorStickyScroll.background
+-   editorSuggestWidget.background
+-   sideBar.background
+-   sideBarStickyScroll.background
+
+<br>
+
 # 1.0.4
 
 Update colors:
-- sideBarStickyScroll
+
+-   sideBarStickyScroll
 
 <br>
 
 # 1.0.3
 
 Update colors:
+
 -   outputView and outputViewStickyScroll
 -   peekViewEditorStickyScroll
 -   terminalStickyScroll and terminalStickyScrollHover
@@ -17,6 +38,7 @@ Update colors:
 # 1.0.2
 
 Update colors:
+
 -   editorInfo
 -   editorWarning
 -   editorError
@@ -27,6 +49,7 @@ Update colors:
 # 1.0.1
 
 Update colors:
+
 -   editorStickyScroll
 -   editorInlayHint
 -   breadcrumb

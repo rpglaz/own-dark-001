@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/rpglaz/own-dark-001"
   },
-  "version": "1.0.4",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -29,6 +29,6 @@
     ]
   },
   "scripts": {
-    "vsce:pack": "vsce pack -o ./versions"
+    "vsce:pack": "vsce pack -o ./builds"
   }
 }
