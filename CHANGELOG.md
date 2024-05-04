@@ -1,3 +1,15 @@
+# 1.1.1
+
+Fix colors:
+
+-   editorWidget.background
+
+Update colors:
+
+-   selection.background
+
+<br>
+
 # 1.1.0
 
 Update colors:
