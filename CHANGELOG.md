@@ -1,3 +1,20 @@
+# 1.1.2
+
+Update colors:
+
+-   editorHoverWidget.background
+-   editorHoverWidget.border
+-   editorHoverWidget.foreground
+-   editorHoverWidget.highlightForeground
+-   editorSuggestWidget.border
+-   editorSuggestWidget.focusHighlightForeground
+-   editorSuggestWidget.foreground
+-   editorSuggestWidget.highlightForeground
+-   editorSuggestWidget.selectedBackground
+-   editorSuggestWidget.selectedForeground
+
+<br>
+
 # 1.1.1
 
 Fix colors:
