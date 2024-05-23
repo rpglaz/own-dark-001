@@ -1,93 +1,102 @@
-# 1.1.2
+# Changelog
+
+## 1.1.3
 
 Update colors:
 
--   editorHoverWidget.background
--   editorHoverWidget.border
--   editorHoverWidget.foreground
--   editorHoverWidget.highlightForeground
--   editorSuggestWidget.border
--   editorSuggestWidget.focusHighlightForeground
--   editorSuggestWidget.foreground
--   editorSuggestWidget.highlightForeground
--   editorSuggestWidget.selectedBackground
--   editorSuggestWidget.selectedForeground
+- terminal.ansiBlue
+- terminal.ansiBrightBlack
+- terminal.ansiBrightBlue
+- terminal.ansiBrightCyan
+- terminal.ansiBrightGreen
+- terminal.ansiBrightMagenta
+- terminal.ansiBrightRed
+- terminal.ansiBrightWhite
+- terminal.ansiBrightYellow
+- terminal.ansiCyan
+- terminal.ansiGreen
+- terminal.ansiMagenta
+- terminal.ansiRed
+- terminal.ansiWhite
+- terminal.ansiYellow
+- terminalCursor.foreground
 
-<br>
+## 1.1.2
 
-# 1.1.1
+Update colors:
+
+- editorHoverWidget.background
+- editorHoverWidget.border
+- editorHoverWidget.foreground
+- editorHoverWidget.highlightForeground
+- editorSuggestWidget.border
+- editorSuggestWidget.focusHighlightForeground
+- editorSuggestWidget.foreground
+- editorSuggestWidget.highlightForeground
+- editorSuggestWidget.selectedBackground
+- editorSuggestWidget.selectedForeground
+
+## 1.1.1
 
 Fix colors:
 
--   editorWidget.background
+- editorWidget.background
 
 Update colors:
 
--   selection.background
+- selection.background
 
-<br>
-
-# 1.1.0
+## 1.1.0
 
 Update colors:
 
--   editor.background
--   editorGroup.dropIntoPromptBackground
--   editorGroupHeader.noTabsBackground
--   editorGroupHeader.tabsBackground
--   editorGutter.background
--   editorHoverWidget.background
--   editorHoverWidget.foreground
--   editorHoverWidget.statusBarBackground
--   editorStickyScroll.background
--   editorSuggestWidget.background
--   sideBar.background
--   sideBarStickyScroll.background
+- editor.background
+- editorGroup.dropIntoPromptBackground
+- editorGroupHeader.noTabsBackground
+- editorGroupHeader.tabsBackground
+- editorGutter.background
+- editorHoverWidget.background
+- editorHoverWidget.foreground
+- editorHoverWidget.statusBarBackground
+- editorStickyScroll.background
+- editorSuggestWidget.background
+- sideBar.background
+- sideBarStickyScroll.background
 
-<br>
-
-# 1.0.4
+## 1.0.4
 
 Update colors:
 
--   sideBarStickyScroll
+- sideBarStickyScroll
 
-<br>
-
-# 1.0.3
+## 1.0.3
 
 Update colors:
 
--   outputView and outputViewStickyScroll
--   peekViewEditorStickyScroll
--   terminalStickyScroll and terminalStickyScrollHover
+- outputView and outputViewStickyScroll
+- peekViewEditorStickyScroll
+- terminalStickyScroll and terminalStickyScrollHover
 
-<br>
-
-# 1.0.2
+## 1.0.2
 
 Update colors:
 
--   editorInfo
--   editorWarning
--   editorError
--   editorHint
+- editorInfo
+- editorWarning
+- editorError
+- editorHint
 
-<br>
-
-# 1.0.1
+## 1.0.1
 
 Update colors:
 
--   editorStickyScroll
--   editorInlayHint
--   breadcrumb
--   editorGutter
--   editorGroupHeader
--   editor
+- editorStickyScroll
+- editorInlayHint
+- breadcrumb
+- editorGutter
+- editorGroupHeader
+- editor
 
-<br>
-
-# 1.0.0
+## 1.0.0
 
 Initial release
