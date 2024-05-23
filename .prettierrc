@@ -9,7 +9,7 @@
     "trailingComma": "es5",
     "overrides": [
         {
-            "files": ["*.json", "*.yml", "*.yaml"],
+            "files": ["*.json", "*.yml", "*.yaml", "*.md"],
             "options": {
                 "tabWidth": 2
             }
