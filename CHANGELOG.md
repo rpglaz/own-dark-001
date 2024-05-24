@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.4
+
+Update colors:
+
+- editorHoverWidget.border
+- editorSuggestWidget.border
+
 ## 1.1.3
 
 Update colors:
