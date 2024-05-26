@@ -817,7 +817,8 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#6A9955"
+        "foreground": "#FFFFFF56",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1286,13 +1287,6 @@
       "scope": "ref.matchtext",
       "settings": {
         "foreground": "#FFFFFF"
-      }
-    },
-    {
-      "scope": "comment",
-      "settings": {
-        "foreground": "#FFFFFF56",
-        "fontStyle": "italic"
       }
     },
     {

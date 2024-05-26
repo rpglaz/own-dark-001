@@ -29,6 +29,6 @@
     ]
   },
   "scripts": {
-    "vsce:pack": "vsce pack -o ./builds"
+    "vsce:pack": "vsce pack -o ./"
   }
 }
