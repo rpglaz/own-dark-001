@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.5
+
+Update colors:
+
+- statusBar.debuggingBackground
+- statusBar.debuggingForeground
+- statusBar.debuggingBorder
+
 ## 1.1.4
 
 Update colors:
