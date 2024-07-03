@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.1.6
+
+Update colors:
+
+- multiDiffEditor.border
+- multiDiffEditor.headerBackground
+
+Remove not allowed property:
+
+- inlineChat.regionHighlight
+
 ## 1.1.5
 
 Update colors:
