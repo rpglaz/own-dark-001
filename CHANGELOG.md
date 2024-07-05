@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.1.7
+
+Update colors:
+
+- editorSuggestWidget.selectedBackground
+- editorSuggestWidget.selectedForeground
+- editorSuggestWidget.selectedIconForeground
+- editorSuggestWidget.background
+- editorHoverWidget.background
+- inputOption.hoverBackground
+- list.activeSelectionBackground
+- list.focusAndSelectionOutline
+- list.focusBackground
+- list.focusForeground
+- list.focusOutline
+- list.hoverBackground
+- list.hoverForeground
+- list.inactiveSelectionBackground
+- quickInputList.focusBackground
+- selection.background
+
 ## 1.1.6
 
 Update colors:
