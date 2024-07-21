@@ -162,7 +162,7 @@
     "editorCommentsWidget.resolvedBorder": "#cccccc80",
     "editorCommentsWidget.unresolvedBorder": "#393c40",
     "editorCursor.background": "#070707",
-    "editorCursor.foreground": "#fafafae2",
+    "editorCursor.foreground": "#d16060",
     "editorError.border": "#00000000",
     "editorError.foreground": "#ff5353",
     "editorGhostText.border": "#393c40",

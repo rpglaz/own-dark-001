@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.8
+
+Update colors:
+
+- editorCursor.foreground
+
 ## 1.1.7
 
 Update colors:
