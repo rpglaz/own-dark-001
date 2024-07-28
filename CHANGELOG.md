@@ -1,14 +1,23 @@
 # Changelog
 
+## 1.1.10
+
+Update colors:
+
+- inputOption.activeBackground
+- inputOption.activeBorder
+- inputOption.hoverBackground
+- quickInputList.focusBackground"
+
 ## 1.1.9
 
 Updated colors:
 
-editorUnnecessaryCode.border
-editorUnnecessaryCode.opacity
-list.focusAndSelectionOutline
-list.focusBackground
-list.inactiveFocusOutline
+- editorUnnecessaryCode.border
+- editorUnnecessaryCode.opacity
+- list.focusAndSelectionOutline
+- list.focusBackground
+- list.inactiveFocusOutline
 
 ## 1.1.8
 
