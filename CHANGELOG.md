@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.1.9
+
+Updated colors:
+
+editorUnnecessaryCode.border
+editorUnnecessaryCode.opacity
+list.focusAndSelectionOutline
+list.focusBackground
+list.inactiveFocusOutline
+
 ## 1.1.8
 
 Update colors:
