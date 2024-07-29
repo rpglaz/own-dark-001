@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1.11
+
+Update colors:
+
+- icon.foreground
+- inputOption.activeBackground
+- inputOption.activeBorder
+- inputOption.activeForeground
+
 ## 1.1.10
 
 Update colors:
@@ -7,7 +16,7 @@ Update colors:
 - inputOption.activeBackground
 - inputOption.activeBorder
 - inputOption.hoverBackground
-- quickInputList.focusBackground"
+- quickInputList.focusBackground
 
 ## 1.1.9
 
