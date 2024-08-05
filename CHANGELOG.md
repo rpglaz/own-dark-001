@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.1.12
+
+Update colors:
+
+- activityBar.activeBorder
+- activityBar.foreground
+- activityBar.inactiveForeground
+- checkbox.selectBorder
+- editorGutter.foldingControlForeground
+- icon.foreground
+- list.dropBetweenBackground
+- statusBar.foreground
+- statusBarItem.hoverForeground
+- statusBarItem.prominentHoverForeground
+- statusBarItem.remoteHoverForeground
+
 ## 1.1.11
 
 Update colors:
