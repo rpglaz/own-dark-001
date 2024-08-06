@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.1.13
+
+Update colors:
+
+- activityBar.activeBorder
+- activityBar.foreground
+- activityBar.inactiveForeground
+- activityBarBadge.background
+- statusBar.foreground
+- statusBarItem.hoverForeground
+- statusBarItem.prominentForeground
+- statusBarItem.remoteHoverForeground
+
 ## 1.1.12
 
 Update colors:
