@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.1.14
+
+Update colors:
+
+- terminalStickyScroll.background
+- terminalStickyScroll.border
+- terminalStickyScrollHover.background
+- editorStickyScrollHover.background
+- sideBarStickyScroll.background
+- list.hoverBackground
+
 ## 1.1.13
 
 Update colors:
