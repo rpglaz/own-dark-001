@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.1.15
+
+Update colors:
+
+- editorOverviewRuler.border
+- panel.background
+- sideBar.background
+- sideBarStickyScroll.background
+- terminal.background
+- terminalOverviewRuler.border
+- terminalStickyScroll.background
+
 ## 1.1.14
 
 Update colors:
