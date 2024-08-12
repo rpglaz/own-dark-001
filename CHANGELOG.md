@@ -1,235 +1,89 @@
 # Changelog
 
+## 1.1.16
+
+Aug 12 2024
+
 ## 1.1.15
 
-Update colors:
-
-- editorOverviewRuler.border
-- panel.background
-- sideBar.background
-- sideBarStickyScroll.background
-- terminal.background
-- terminalOverviewRuler.border
-- terminalStickyScroll.background
+Aug 12 2024
 
 ## 1.1.14
 
-Update colors:
-
-- terminalStickyScroll.background
-- terminalStickyScroll.border
-- terminalStickyScrollHover.background
-- editorStickyScrollHover.background
-- sideBarStickyScroll.background
-- list.hoverBackground
+Aug 11 2024
 
 ## 1.1.13
 
-Update colors:
-
-- activityBar.activeBorder
-- activityBar.foreground
-- activityBar.inactiveForeground
-- activityBarBadge.background
-- statusBar.foreground
-- statusBarItem.hoverForeground
-- statusBarItem.prominentForeground
-- statusBarItem.remoteHoverForeground
+Aug 6 2024
 
 ## 1.1.12
 
-Update colors:
-
-- activityBar.activeBorder
-- activityBar.foreground
-- activityBar.inactiveForeground
-- checkbox.selectBorder
-- editorGutter.foldingControlForeground
-- icon.foreground
-- list.dropBetweenBackground
-- statusBar.foreground
-- statusBarItem.hoverForeground
-- statusBarItem.prominentHoverForeground
-- statusBarItem.remoteHoverForeground
+Aug 5 2024
 
 ## 1.1.11
 
-Update colors:
-
-- icon.foreground
-- inputOption.activeBackground
-- inputOption.activeBorder
-- inputOption.activeForeground
+Jul 29 2024
 
 ## 1.1.10
 
-Update colors:
-
-- inputOption.activeBackground
-- inputOption.activeBorder
-- inputOption.hoverBackground
-- quickInputList.focusBackground
+Jul 28 2024
 
 ## 1.1.9
 
-Updated colors:
-
-- editorUnnecessaryCode.border
-- editorUnnecessaryCode.opacity
-- list.focusAndSelectionOutline
-- list.focusBackground
-- list.inactiveFocusOutline
+Jul 28 2024
 
 ## 1.1.8
 
-Update colors:
-
-- editorCursor.foreground
+Jul 21 2024
 
 ## 1.1.7
 
-Update colors:
-
-- editorSuggestWidget.selectedBackground
-- editorSuggestWidget.selectedForeground
-- editorSuggestWidget.selectedIconForeground
-- editorSuggestWidget.background
-- editorHoverWidget.background
-- inputOption.hoverBackground
-- list.activeSelectionBackground
-- list.focusAndSelectionOutline
-- list.focusBackground
-- list.focusForeground
-- list.focusOutline
-- list.hoverBackground
-- list.hoverForeground
-- list.inactiveSelectionBackground
-- quickInputList.focusBackground
-- selection.background
+Jul 6 2024
 
 ## 1.1.6
 
-Update colors:
-
-- multiDiffEditor.border
-- multiDiffEditor.headerBackground
-
-Remove not allowed property:
-
-- inlineChat.regionHighlight
+Jul 3 2024
 
 ## 1.1.5
 
-Update colors:
-
-- statusBar.debuggingBackground
-- statusBar.debuggingForeground
-- statusBar.debuggingBorder
+Jun 28 2024
 
 ## 1.1.4
 
-Update colors:
-
-- editorHoverWidget.border
-- editorSuggestWidget.border
+May 25 2024
 
 ## 1.1.3
 
-Update colors:
-
-- terminal.ansiBlue
-- terminal.ansiBrightBlack
-- terminal.ansiBrightBlue
-- terminal.ansiBrightCyan
-- terminal.ansiBrightGreen
-- terminal.ansiBrightMagenta
-- terminal.ansiBrightRed
-- terminal.ansiBrightWhite
-- terminal.ansiBrightYellow
-- terminal.ansiCyan
-- terminal.ansiGreen
-- terminal.ansiMagenta
-- terminal.ansiRed
-- terminal.ansiWhite
-- terminal.ansiYellow
-- terminalCursor.foreground
+May 23 2024
 
 ## 1.1.2
 
-Update colors:
-
-- editorHoverWidget.background
-- editorHoverWidget.border
-- editorHoverWidget.foreground
-- editorHoverWidget.highlightForeground
-- editorSuggestWidget.border
-- editorSuggestWidget.focusHighlightForeground
-- editorSuggestWidget.foreground
-- editorSuggestWidget.highlightForeground
-- editorSuggestWidget.selectedBackground
-- editorSuggestWidget.selectedForeground
+May 5 2024
 
 ## 1.1.1
 
-Fix colors:
-
-- editorWidget.background
-
-Update colors:
-
-- selection.background
+May 4 2024
 
 ## 1.1.0
 
-Update colors:
-
-- editor.background
-- editorGroup.dropIntoPromptBackground
-- editorGroupHeader.noTabsBackground
-- editorGroupHeader.tabsBackground
-- editorGutter.background
-- editorHoverWidget.background
-- editorHoverWidget.foreground
-- editorHoverWidget.statusBarBackground
-- editorStickyScroll.background
-- editorSuggestWidget.background
-- sideBar.background
-- sideBarStickyScroll.background
+May 4 2024
 
 ## 1.0.4
 
-Update colors:
-
-- sideBarStickyScroll
+May 2 2024
 
 ## 1.0.3
 
-Update colors:
-
-- outputView and outputViewStickyScroll
-- peekViewEditorStickyScroll
-- terminalStickyScroll and terminalStickyScrollHover
+Mar 27 2024
 
 ## 1.0.2
 
-Update colors:
-
-- editorInfo
-- editorWarning
-- editorError
-- editorHint
+Mar 24 2024
 
 ## 1.0.1
 
-Update colors:
-
-- editorStickyScroll
-- editorInlayHint
-- breadcrumb
-- editorGutter
-- editorGroupHeader
-- editor
+Mar 17 2024
 
 ## 1.0.0
 
-Initial release
+Mar 13 2024
