@@ -1,3 +1,3 @@
 # Changelog
 
-Last release: **1.1.18** (Aug 15 2024)
+Last release: **1.1.19** (Aug 16 2024)
