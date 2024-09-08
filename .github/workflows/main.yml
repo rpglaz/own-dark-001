@@ -32,5 +32,6 @@ jobs:
         with:
           generate_release_notes: false
           files: builds/own-dark-001-*.*.*.vsix
+
       - name: Clean up
         run: rm -rf ./builds
