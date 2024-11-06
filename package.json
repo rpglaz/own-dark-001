@@ -1,6 +1,7 @@
 {
   "name": "own-dark-001",
   "displayName": "own-dark-001",
+  "icon": "./images/logo-5.png",
   "description": "Own mix of Dark Modern and One Dark's themes",
   "publisher": "rpglaz",
   "author": {
@@ -30,7 +31,8 @@
   },
   "scripts": {
     "vsce:pack": "vsce pack -o ./",
-    "vsce:build": "vsce pack -o ./builds"
+    "vsce:build": "vsce pack -o ./builds",
+    "vsce:publish": "vsce publish"
   },
   "dependencies": {}
 }
