@@ -1,3 +1,3 @@
-# Changelog
+# 1.1.26 (06.11.2024)
 
-Last release: **1.1.25** (Oct 31 2024)
+Update `diffEditor` colors.
